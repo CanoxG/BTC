@@ -1,0 +1,50 @@
+.coinsContainer {
+  display: flex;
+  justify-content: center;
+}
+
+.coinRow {
+  display: flex;
+  flex-direction: row;
+  justify-items: start;
+  align-items: center;
+  height: 80px;
+  border-bottom: 1px solid #d7d7d7;
+  width: 900px;
+}
+
+.coin {
+  display: flex;
+  align-items: center;
+  padding-right: 24px;
+  min-width: 300px;
+}
+
+h2 {
+  width: 150px;
+}
+
+img {
+  height: 30px;
+  width: 30px;
+  margin-right: 10px;
+}
+
+.symbol {
+  text-transform: uppercase;
+}
+
+.coinData {
+  display: flex;
+  text-align: center;
+  justify-content: space-between;
+  width: 100%;
+}
+
+.coinPrice {
+  width: 110px;
+}
+
+.coinVolume {
+  width: 155px;
+}

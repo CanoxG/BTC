@@ -1,0 +1,13 @@
+# Modules
+  dist
+  .node_modules/
+
+
+# Mics
+    .DS_Store
+	.idea/
+	.prettierrc.json
+	package.json
+	services/
+	yarn-error.log
+	yarn.lock

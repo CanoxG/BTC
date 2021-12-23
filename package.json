@@ -1,0 +1,12 @@
+{
+  "name": "BTC",
+  "version": "1.0.0",
+  "description": "FETCH API TUTORIAL",
+  "main": "index.js",
+  "author": "Can Guven",
+  "license": "MIT",
+  "private": null,
+  "devDependencies": {
+    "prettier": "^2.4.1"
+  }
+}
